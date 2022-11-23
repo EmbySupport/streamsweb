@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="scanners-1981-1080p" tvg-name="Scanners" tvg-logo="https://archive.org/download/scanners-1981-1080p/format=Thumbnail" tvg-language="eng",Scanners (1981)
+https://archive.org/download/scanners-1981-1080p/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="the-devil-thumbs-a-ride-1947" tvg-name="The Devil Thumbs A Ride ( 1947)" tvg-logo="https://archive.org/download/the-devil-thumbs-a-ride-1947/format=Thumbnail" tvg-language="eng",The Devil Thumbs A Ride (1947) (1945)
 https://archive.org/download/the-devil-thumbs-a-ride-1947/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="debunking-sneako-youtubes-biggest-man-child" tvg-name="Debunking Sneako: YouTube's Biggest Man-Child" tvg-logo="https://archive.org/download/debunking-sneako-youtubes-biggest-man-child/format=Thumbnail" tvg-language="eng",Debunking Sneako: YouTube's Biggest Man-Child (2022)
