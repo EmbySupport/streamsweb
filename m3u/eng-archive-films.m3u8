@@ -51,6 +51,8 @@ https://archive.org/download/Fugitive_Road_1934/format=h.264
 https://archive.org/download/bro-daddy-2022/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="trashy.-lady.-1985.1080p.-blu-ray.x-265-rarbg" tvg-name="Trashy Lady(1985)" tvg-logo="https://archive.org/download/trashy.-lady.-1985.1080p.-blu-ray.x-265-rarbg/format=Thumbnail" tvg-language="eng",Trashy Lady(1985)
 https://archive.org/download/trashy.-lady.-1985.1080p.-blu-ray.x-265-rarbg/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="avengers-endgame-2019-dual-audio-z-flix-co" tvg-name="Hollywood Movie Series" tvg-logo="https://archive.org/download/avengers-endgame-2019-dual-audio-z-flix-co/format=Thumbnail" tvg-language="eng",Hollywood Movie Series (2022)
+https://archive.org/download/avengers-endgame-2019-dual-audio-z-flix-co/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="final.-justice.-1984.1080p.-blu-ray.x-265-rarbg_202206" tvg-name="Final Justice(1984) HD" tvg-logo="https://archive.org/download/final.-justice.-1984.1080p.-blu-ray.x-265-rarbg_202206/format=Thumbnail" tvg-language="eng",Final Justice(1984)
 https://archive.org/download/final.-justice.-1984.1080p.-blu-ray.x-265-rarbg_202206/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="detour-1945-colorized-movie-720p-hd" tvg-name="Detour (restored‚ colorized) (1946‚ film-noir‚ imdb score: 7.3)" tvg-logo="https://archive.org/download/detour-1945-colorized-movie-720p-hd/format=Thumbnail" tvg-language="eng",Detour (restored‚ colorized) (1946)
@@ -71,6 +73,8 @@ https://archive.org/download/Bowery_at_Midnight_1942/format=h.264
 https://archive.org/download/the-mob-1951-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="he-walked-by-night-1948-colorized-720p-hd" tvg-name="He Walked by Night (restored‚ colorized) (1948‚ noir‚ imdb score: 7.2)" tvg-logo="https://archive.org/download/he-walked-by-night-1948-colorized-720p-hd/format=Thumbnail" tvg-language="eng",He Walked by Night (restored‚ colorized) (1948)
 https://archive.org/download/he-walked-by-night-1948-colorized-720p-hd/format=h.264
+#EXTINF:-1 group-title="Feature films" tvg-id="83-2021-1080p-z-flix-co" tvg-name="2021" tvg-logo="https://archive.org/download/83-2021-1080p-z-flix-co/format=Thumbnail" tvg-language="eng",2021 (2022)
+https://archive.org/download/83-2021-1080p-z-flix-co/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="1945-2022-telugu-1080p-z-flix-co" tvg-name="2022" tvg-logo="https://archive.org/download/1945-2022-telugu-1080p-z-flix-co/format=Thumbnail" tvg-language="eng",2022
 https://archive.org/download/1945-2022-telugu-1080p-z-flix-co/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="one-one-sympathy-for-the-devil-jean-luc-godard-1968" tvg-name="One + One ☆ Sympathy For The Devil ☆ Jean Luc Godard ☆ 1968" tvg-logo="https://archive.org/download/one-one-sympathy-for-the-devil-jean-luc-godard-1968/format=Thumbnail" tvg-language="eng",One + One ☆ Sympathy For The Devil ☆ Jean Luc Godard ☆ 1968
@@ -95,6 +99,8 @@ https://archive.org/download/that-walks-at-night/format=MPEG4
 https://archive.org/download/videoplayback_202204/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="monsters-crash-the-pajama-party" tvg-name="Monsters Crash The Pajama Party" tvg-logo="https://archive.org/download/monsters-crash-the-pajama-party/format=Thumbnail" tvg-language="eng",Monsters Crash The Pajama Party
 https://archive.org/download/monsters-crash-the-pajama-party/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="ala.-vaikunthapurramuloo.-2020.1080p.-hindi-z-flix-co" tvg-name="2020" tvg-logo="https://archive.org/download/ala.-vaikunthapurramuloo.-2020.1080p.-hindi-z-flix-co/format=Thumbnail" tvg-language="eng",2020 (2022)
+https://archive.org/download/ala.-vaikunthapurramuloo.-2020.1080p.-hindi-z-flix-co/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="trapped-1949-restored-movie-720p-hd" tvg-name="Trapped (restored) (1949‚ crime‚ imdb score: 6.4)" tvg-logo="https://archive.org/download/trapped-1949-restored-movie-720p-hd/format=Thumbnail" tvg-language="eng",Trapped  (1949)
 https://archive.org/download/trapped-1949-restored-movie-720p-hd/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="One_Body_Too_Many--1944" tvg-name="One Body Too Many (1944; smallest download)" tvg-logo="https://archive.org/download/One_Body_Too_Many--1944/format=Thumbnail" tvg-language="eng",One Body Too Many (1944)
@@ -2627,10 +2633,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
-https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
 https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
+https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
