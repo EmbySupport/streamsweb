@@ -1,4 +1,8 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="guerra-los-primeros-10000-anos" tvg-name="Guerra: Los primeros 10‚000 años" tvg-logo="https://archive.org/download/guerra-los-primeros-10000-anos/format=Thumbnail" tvg-language="spa",Guerra: Los primeros 10‚000 años (2020)
+https://archive.org/download/guerra-los-primeros-10000-anos/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="cronologia-del-doomverse-kai-doomentio100k" tvg-name="CRONOLOGIA DEL DOOMVERSE KAI #doomentio100k" tvg-logo="https://archive.org/download/cronologia-del-doomverse-kai-doomentio100k/format=Thumbnail" tvg-language="spa",CRONOLOGIA DEL DOOMVERSE KAI #doomentio100k (2022)
+https://archive.org/download/cronologia-del-doomverse-kai-doomentio100k/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="me-cai-de-la-nube-1974-1080p" tvg-name="Me Caí De La Nube ( 1974)" tvg-logo="https://archive.org/download/me-cai-de-la-nube-1974-1080p/format=Thumbnail" tvg-language="spa",Me Caí De La Nube (1974)
 https://archive.org/download/me-cai-de-la-nube-1974-1080p/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="copia-de-tierra-de-sangre-el-corrido-de-los-perez-1993-1080p" tvg-name="Tierra de Sangre: El Corrido De Los Pérez (1992)" tvg-logo="https://archive.org/download/copia-de-tierra-de-sangre-el-corrido-de-los-perez-1993-1080p/format=Thumbnail" tvg-language="spa",Tierra de Sangre: El Corrido De Los Pérez (1992)
