@@ -1,4 +1,18 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="when-a-man-loves_1927" tvg-name="When a Man Loves" tvg-logo="https://archive.org/download/when-a-man-loves_1927/format=Thumbnail" tvg-language="eng",When a Man Loves (1927)
+https://archive.org/download/when-a-man-loves_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="upstream_1927" tvg-name="Upstream" tvg-logo="https://archive.org/download/upstream_1927/format=Thumbnail" tvg-language="eng",Upstream (1927)
+https://archive.org/download/upstream_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="underworld_1927" tvg-name="Underworld" tvg-logo="https://archive.org/download/underworld_1927/format=Thumbnail" tvg-language="eng",Underworld (1927)
+https://archive.org/download/underworld_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="two-arabian-knights_1927" tvg-name="Two Arabian Knights" tvg-logo="https://archive.org/download/two-arabian-knights_1927/format=Thumbnail" tvg-language="eng",Two Arabian Knights (1927)
+https://archive.org/download/two-arabian-knights_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-unknown_1927" tvg-name="The Unknown" tvg-logo="https://archive.org/download/the-unknown_1927/format=Thumbnail" tvg-language="eng",The Unknown (1927)
+https://archive.org/download/the-unknown_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-second-100-years_1927" tvg-name="The Second 100 Years" tvg-logo="https://archive.org/download/the-second-100-years_1927/format=Thumbnail" tvg-language="eng",The Second 100 Years (1927)
+https://archive.org/download/the-second-100-years_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-scarlet-letter_1927" tvg-name="The Scarlet Letter" tvg-logo="https://archive.org/download/the-scarlet-letter_1927/format=Thumbnail" tvg-language="eng",The Scarlet Letter (1927)
+https://archive.org/download/the-scarlet-letter_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-red-mill_1927" tvg-name="The Red Mill" tvg-logo="https://archive.org/download/the-red-mill_1927/format=Thumbnail" tvg-language="eng",The Red Mill (1927)
 https://archive.org/download/the-red-mill_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="the-police-quartette_1927" tvg-name="The Police Quartette" tvg-logo="https://archive.org/download/the-police-quartette_1927/format=Thumbnail" tvg-language="eng",The Police Quartette (1927)
@@ -3581,10 +3595,6 @@ https://archive.org/download/somewhere-in-the-night-1946/format=h.264
 https://archive.org/download/the-web-1947/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="winchester-73-1950" tvg-name="Winchester '73 (1950)" tvg-logo="https://archive.org/download/winchester-73-1950/format=Thumbnail" tvg-language="eng",Winchester '73 (1950)
 https://archive.org/download/winchester-73-1950/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="strangers-on-a-train-1951" tvg-name="Strangers On A Train (1951)" tvg-logo="https://archive.org/download/strangers-on-a-train-1951/format=Thumbnail" tvg-language="eng",Strangers On A Train (1951)
-https://archive.org/download/strangers-on-a-train-1951/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="bringing-up-baby-1938_202008" tvg-name="Bringing Up Baby (1938)" tvg-logo="https://archive.org/download/bringing-up-baby-1938_202008/format=Thumbnail" tvg-language="eng",Bringing Up Baby (1938)
-https://archive.org/download/bringing-up-baby-1938_202008/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="payroll_1961" tvg-name="payroll 1961 Crime film noir starring Michael Craig" tvg-logo="https://archive.org/download/payroll_1961/format=Thumbnail" tvg-language="eng",payroll 1961 Crime film noir starring Michael Craig
 https://archive.org/download/payroll_1961/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="jason-and-the-argonauts-1963" tvg-name="Jason And The Argonauts (1963)" tvg-logo="https://archive.org/download/jason-and-the-argonauts-1963/format=Thumbnail" tvg-language="eng",Jason And The Argonauts (1963)
@@ -3593,8 +3603,6 @@ https://archive.org/download/jason-and-the-argonauts-1963/format=h.264
 https://archive.org/download/the-snake-pit-1948/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="lady-in-a-cage-1964" tvg-name="Lady In A Cage (1964)" tvg-logo="https://archive.org/download/lady-in-a-cage-1964/format=Thumbnail" tvg-language="eng",Lady In A Cage (1964)
 https://archive.org/download/lady-in-a-cage-1964/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="after-the-thin-man-1936" tvg-name="After The Thin Man (1936)" tvg-logo="https://archive.org/download/after-the-thin-man-1936/format=Thumbnail" tvg-language="eng",After The Thin Man (1936)
-https://archive.org/download/after-the-thin-man-1936/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="kansas.-city.-confidential.-1952.1080p.-blu-ray.-h-264.-aac-rarbg" tvg-name="Kansas City Confidential (1952) [P&M] 1080p Blu-ray (1.9GB)" tvg-logo="https://archive.org/download/kansas.-city.-confidential.-1952.1080p.-blu-ray.-h-264.-aac-rarbg/format=Thumbnail" tvg-language="eng",Kansas City Confidential (1952) [P&M] 1080p Blu-ray (1.9GB)
 https://archive.org/download/kansas.-city.-confidential.-1952.1080p.-blu-ray.-h-264.-aac-rarbg/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="lady-gangster-1942-crime-drama-film-noir-full-length-film" tvg-name="Lady Gangster (1942) [P&M] YouTube (300MB)" tvg-logo="https://archive.org/download/lady-gangster-1942-crime-drama-film-noir-full-length-film/format=Thumbnail" tvg-language="eng",Lady Gangster (1942) [P&M] YouTube (300MB)
@@ -3611,14 +3619,8 @@ https://archive.org/download/moonlight-moovies-3/format=MPEG4
 https://archive.org/download/moonlight-moovies-2/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="moonlight-moovies-1" tvg-name="MOONLIGHT MOOVIES # 1" tvg-logo="https://archive.org/download/moonlight-moovies-1/format=Thumbnail" tvg-language="eng",MOONLIGHT MOOVIES # 1
 https://archive.org/download/moonlight-moovies-1/format=MPEG4
-#EXTINF:-1 group-title="Feature films" tvg-id="the-champ-1931" tvg-name="The Champ (1931)" tvg-logo="https://archive.org/download/the-champ-1931/format=Thumbnail" tvg-language="eng",The Champ (1931)
-https://archive.org/download/the-champ-1931/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="mildred-pierce-1945" tvg-name="Mildred Pierce (1945)" tvg-logo="https://archive.org/download/mildred-pierce-1945/format=Thumbnail" tvg-language="eng",Mildred Pierce (1945)
-https://archive.org/download/mildred-pierce-1945/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-haunting-1963" tvg-name="The Haunting (1963)" tvg-logo="https://archive.org/download/the-haunting-1963/format=Thumbnail" tvg-language="eng",The Haunting (1963)
 https://archive.org/download/the-haunting-1963/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="a-star-is-born-1954" tvg-name="A Star Is Born (1954)" tvg-logo="https://archive.org/download/a-star-is-born-1954/format=Thumbnail" tvg-language="eng",A Star Is Born (1954)
-https://archive.org/download/a-star-is-born-1954/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="on-the-beach-1959" tvg-name="On The Beach (1959)" tvg-logo="https://archive.org/download/on-the-beach-1959/format=Thumbnail" tvg-language="eng",On The Beach (1959)
 https://archive.org/download/on-the-beach-1959/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-bedford-incident-1965_202006" tvg-name="The Bedford Incident (1965)" tvg-logo="https://archive.org/download/the-bedford-incident-1965_202006/format=Thumbnail" tvg-language="eng",The Bedford Incident (1965)
@@ -3643,16 +3645,12 @@ https://archive.org/download/blood-on-the-sun-1945/format=h.264
 https://archive.org/download/she-done-him-wrong-1933/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="a-bullet-is-waiting-1954-apos-a-tempestade-legendado" tvg-name="A Bullet Is Waiting (1954) Após A Tempestade (Une balle vous attend) - Legendado - Sous-titré" tvg-logo="https://archive.org/download/a-bullet-is-waiting-1954-apos-a-tempestade-legendado/format=Thumbnail" tvg-language="eng",A Bullet Is Waiting (1954) Após A Tempestade (Une balle vous attend) - Legendado - Sous-titré (2020)
 https://archive.org/download/a-bullet-is-waiting-1954-apos-a-tempestade-legendado/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="the-roaring-twenties-1939" tvg-name="The Roaring Twenties (1939)" tvg-logo="https://archive.org/download/the-roaring-twenties-1939/format=Thumbnail" tvg-language="eng",The Roaring Twenties (1939)
-https://archive.org/download/the-roaring-twenties-1939/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="the-monolith-monsters-1957" tvg-name="The Monolith Monsters (1957)" tvg-logo="https://archive.org/download/the-monolith-monsters-1957/format=Thumbnail" tvg-language="eng",The Monolith Monsters (1957)
 https://archive.org/download/the-monolith-monsters-1957/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="AV-LOSSLESS-TEST-MATERIAL" tvg-name="AV-LOSSLESS-TEST-MATERIAL" tvg-logo="https://archive.org/download/AV-LOSSLESS-TEST-MATERIAL/format=Thumbnail" tvg-language="eng",AV-LOSSLESS-TEST-MATERIAL
 https://archive.org/download/AV-LOSSLESS-TEST-MATERIAL/format=h.264
 #EXTINF:-1 group-title="Film Noir" tvg-id="kiss-me-deadly-1955" tvg-name="Kiss Me Deadly (1955)" tvg-logo="https://archive.org/download/kiss-me-deadly-1955/format=Thumbnail" tvg-language="eng",Kiss Me Deadly (1955)
 https://archive.org/download/kiss-me-deadly-1955/format=h.264
-#EXTINF:-1 group-title="Feature films" tvg-id="angels-with-dirty-faces-1938" tvg-name="Angels With Dirty Faces (1938)" tvg-logo="https://archive.org/download/angels-with-dirty-faces-1938/format=Thumbnail" tvg-language="eng",Angels With Dirty Faces (1938)
-https://archive.org/download/angels-with-dirty-faces-1938/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="it-came-from-outer-space-1953" tvg-name="It Came From Outer Space (1953)" tvg-logo="https://archive.org/download/it-came-from-outer-space-1953/format=Thumbnail" tvg-language="eng",It Came From Outer Space (1953)
 https://archive.org/download/it-came-from-outer-space-1953/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="scream-of-fear-1961" tvg-name="Scream Of Fear (1961)" tvg-logo="https://archive.org/download/scream-of-fear-1961/format=Thumbnail" tvg-language="eng",Scream Of Fear (1961)
@@ -3663,8 +3661,6 @@ https://archive.org/download/the-shanghai-gesture/format=h.264
 https://archive.org/download/laura-1944/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="vengeance-valley-1951_202005" tvg-name="Vengeance Valley (1951)" tvg-logo="https://archive.org/download/vengeance-valley-1951_202005/format=Thumbnail" tvg-language="eng",Vengeance Valley (1951)
 https://archive.org/download/vengeance-valley-1951_202005/format=h.264
-#EXTINF:-1 group-title="Film Noir" tvg-id="the-postman-always-rings-twice-1946" tvg-name="The Postman Always Rings Twice (1946)" tvg-logo="https://archive.org/download/the-postman-always-rings-twice-1946/format=Thumbnail" tvg-language="eng",The Postman Always Rings Twice (1946)
-https://archive.org/download/the-postman-always-rings-twice-1946/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="suspiria-1977" tvg-name="Suspiria (1977)" tvg-logo="https://archive.org/download/suspiria-1977/format=Thumbnail" tvg-language="eng",Suspiria (1977)
 https://archive.org/download/suspiria-1977/format=h.264
 #EXTINF:-1 group-title="Feature films" tvg-id="shock-corridor-1963" tvg-name="Shock Corridor (1963)" tvg-logo="https://archive.org/download/shock-corridor-1963/format=Thumbnail" tvg-language="eng",Shock Corridor (1963)
