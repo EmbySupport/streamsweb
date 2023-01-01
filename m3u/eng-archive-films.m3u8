@@ -1,4 +1,28 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="the-fighting-eagle_1927" tvg-name="The Fighting Eagle" tvg-logo="https://archive.org/download/the-fighting-eagle_1927/format=Thumbnail" tvg-language="eng",The Fighting Eagle (1927)
+https://archive.org/download/the-fighting-eagle_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="the-beloved-rogue_1927" tvg-name="The Beloved Rogue" tvg-logo="https://archive.org/download/the-beloved-rogue_1927/format=Thumbnail" tvg-language="eng",The Beloved Rogue (1927)
+https://archive.org/download/the-beloved-rogue_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="tell-it-to-the-marines_1927" tvg-name="Tell It to the Marines" tvg-logo="https://archive.org/download/tell-it-to-the-marines_1927/format=Thumbnail" tvg-language="eng",Tell It to the Marines (1927)
+https://archive.org/download/tell-it-to-the-marines_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="spring-fever_1927" tvg-name="Spring Fever" tvg-logo="https://archive.org/download/spring-fever_1927/format=Thumbnail" tvg-language="eng",Spring Fever (1927)
+https://archive.org/download/spring-fever_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="no-mans-law_1927" tvg-name="No Man's Law" tvg-logo="https://archive.org/download/no-mans-law_1927/format=Thumbnail" tvg-language="eng",No Man's Law (1927)
+https://archive.org/download/no-mans-law_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="my-friend-from-india_1927" tvg-name="My Friend from India" tvg-logo="https://archive.org/download/my-friend-from-india_1927/format=Thumbnail" tvg-language="eng",My Friend from India (1927)
+https://archive.org/download/my-friend-from-india_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="mr-wu_1927" tvg-name="Mr. Wu" tvg-logo="https://archive.org/download/mr-wu_1927/format=Thumbnail" tvg-language="eng",Mr. Wu (1927)
+https://archive.org/download/mr-wu_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="mockery_1927" tvg-name="Mockery" tvg-logo="https://archive.org/download/mockery_1927/format=Thumbnail" tvg-language="eng",Mockery (1927)
+https://archive.org/download/mockery_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="jewish-prudence_1927" tvg-name="Jewish Prudence" tvg-logo="https://archive.org/download/jewish-prudence_1927/format=Thumbnail" tvg-language="eng",Jewish Prudence (1927)
+https://archive.org/download/jewish-prudence_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="dont-tell-everything_1927" tvg-name="Don't Tell Everything" tvg-logo="https://archive.org/download/dont-tell-everything_1927/format=Thumbnail" tvg-language="eng",Don't Tell Everything (1927)
+https://archive.org/download/dont-tell-everything_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="captain-salvation_1927" tvg-name="Captain Salvation" tvg-logo="https://archive.org/download/captain-salvation_1927/format=Thumbnail" tvg-language="eng",Captain Salvation (1927)
+https://archive.org/download/captain-salvation_1927/format=MPEG4
+#EXTINF:-1 group-title="Feature films" tvg-id="benhur-a-tale-of-the-christ_1927" tvg-name="Ben-Hur: A Tale of the Christ" tvg-logo="https://archive.org/download/benhur-a-tale-of-the-christ_1927/format=Thumbnail" tvg-language="eng",Ben-Hur: A Tale of the Christ (1927)
+https://archive.org/download/benhur-a-tale-of-the-christ_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="when-a-man-loves_1927" tvg-name="When a Man Loves" tvg-logo="https://archive.org/download/when-a-man-loves_1927/format=Thumbnail" tvg-language="eng",When a Man Loves (1927)
 https://archive.org/download/when-a-man-loves_1927/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="upstream_1927" tvg-name="Upstream" tvg-logo="https://archive.org/download/upstream_1927/format=Thumbnail" tvg-language="eng",Upstream (1927)
@@ -2737,10 +2761,10 @@ https://archive.org/download/silent-vive-la-france/format=h.264
 https://archive.org/download/silent-victory/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-unknown-love" tvg-name="Unknown Love" tvg-logo="https://archive.org/download/silent-unknown-love/format=Thumbnail" tvg-language="eng" channel-id="tt0010822",Unknown Love (1919)
 https://archive.org/download/silent-unknown-love/format=h.264
-#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
-https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-donates-for-liberty-loans" tvg-name="Uncle Sam Donates for Liberty Loans" tvg-logo="https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=Thumbnail" tvg-language="eng" channel-id="tt1496023",Uncle Sam Donates for Liberty Loans (1919)
 https://archive.org/download/silent-uncle-sam-donates-for-liberty-loans/format=h.264
+#EXTINF:-1 group-title="Silent films" tvg-id="silent-uncle-sam-and-the-bolsheviki--i-w-w-rat" tvg-name="Uncle Sam and the Bolsheviki - I.W.W. Rat" tvg-logo="https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=Thumbnail" tvg-language="eng" channel-id="tt1496024",Uncle Sam and the Bolsheviki - I.W.W. Rat (1919)
+https://archive.org/download/silent-uncle-sam-and-the-bolsheviki--i-w-w-rat/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-trapped-by-the-mormons" tvg-name="Trapped by the Mormons" tvg-logo="https://archive.org/download/silent-trapped-by-the-mormons/format=Thumbnail" tvg-language="eng" channel-id="tt0013705",Trapped by the Mormons (1922)
 https://archive.org/download/silent-trapped-by-the-mormons/format=h.264
 #EXTINF:-1 group-title="Silent films" tvg-id="silent-true-heart-susie" tvg-name="True Heart Susie" tvg-logo="https://archive.org/download/silent-true-heart-susie/format=Thumbnail" tvg-language="eng" channel-id="tt0010806",True Heart Susie (1919)
