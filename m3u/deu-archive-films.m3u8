@@ -1,4 +1,6 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="Feature films" tvg-id="metropolis_fritz-lang_1927" tvg-name="Metropolis" tvg-logo="https://archive.org/download/metropolis_fritz-lang_1927/format=Thumbnail" tvg-language="deu",Metropolis (1927)
+https://archive.org/download/metropolis_fritz-lang_1927/format=MPEG4
 #EXTINF:-1 group-title="Film Noir" tvg-id="kino-alphaville-1965-german-by-artblood" tvg-name="Alphaville - 1965 - German - By ARTBLOOD" tvg-logo="https://archive.org/download/kino-alphaville-1965-german-by-artblood/format=Thumbnail" tvg-language="deu",Alphaville - 1965 - German - By ARTBLOOD
 https://archive.org/download/kino-alphaville-1965-german-by-artblood/format=MPEG4
 #EXTINF:-1 group-title="Feature films" tvg-id="hot-love-1985-hd-jorg-buttgereit-1" tvg-name="Hot Love ( 1985)" tvg-logo="https://archive.org/download/hot-love-1985-hd-jorg-buttgereit-1/format=Thumbnail" tvg-language="deu",Hot Love (1985)
